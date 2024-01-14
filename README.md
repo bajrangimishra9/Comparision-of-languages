@@ -15,7 +15,7 @@ For this purpose following are the languages used-
 
      2. C++
   
-       ![image](https://github.com/bajrangimishra9/Comparision-of-languages/assets/155826931/a2d8f289-d95f-423c-a358-9c03176ccc1e)
+        ![image](https://github.com/bajrangimishra9/Comparision-of-languages/assets/155826931/a2d8f289-d95f-423c-a358-9c03176ccc1e)
 
 
  
